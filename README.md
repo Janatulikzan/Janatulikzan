@@ -8,21 +8,21 @@ I am a Web3 Builders with a focus on blockchain, smart contract and web3 technol
 
 ## Skills & Technologies
 
-html,css,js,react,ts,solidity,tailwind,git,github,ipfs,npm,replit,vercel,vscode,vite
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,solidity,tailwind,git,github,ipfs,npm,replit,vercel,vscode,vite&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
-- [TugWarGame](https://github.com/Janatulikzan/TugWarGame) - A competitive tug-of-war game built using TypeScript. **Stars:** 0 | **Language:** TypeScript | **Forks:** 0 | **Issues:** 0
-- [SmartContract-Auction](https://github.com/Janatulikzan/SmartContract-Auction) - An auction smart contract developed in Solidity. **Stars:** 0 | **Language:** TypeScript | **Forks:** 0 | **Issues:** 0
-- [TugWar-SmartContract](https://github.com/Janatulikzan/TugWar-SmartContract) - Smart contract for the TugWar game, leveraging blockchain technology. **Stars:** 0 | **Language:** Solidity | **Forks:** 0 | **Issues:** 0
+
+
+
 
 ## GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janatulikzan&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 - **Public Repositories:** 8
 - **Followers:** 0
 - **Following:** 0
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janatulikzan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
@@ -32,5 +32,3 @@ html,css,js,react,ts,solidity,tailwind,git,github,ipfs,npm,replit,vercel,vscode,
 - **Updated** [TugWarGame](https://github.com/Janatulikzan/TugWarGame) - Updated README.md.
 
 ## Connect with Me
-
-{}
