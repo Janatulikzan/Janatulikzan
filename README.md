@@ -18,6 +18,8 @@ Aspiring <strong>Smart Contract Developer</strong> with a passion for Web3, Soli
 
 ## 🌐 Connect With Me
 
+[![My Skills](https://skillicons.dev/icons?i=gmail,twitter&theme=light)](https://skillicons.dev)
+
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jatul_is)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janatulikzan@gmail.com)
  
@@ -45,16 +47,20 @@ Here are some of the smart contract projects I've been working on:
 
 <p align="center">
 <strong> 💻 Tech Stack </strong>
- <br>
+ <br/>
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=solidity,typescript,js,react,vercel,nodejs,ipfs,git,github,vscode,vite" />
   </a>
 </p>
 
+<div align="center">
+
 ![Hardhat](https://img.shields.io/badge/Hardhat-323232?style=for-the-badge&logo=ethereum&logoColor=yellow)
 ![Foundry](https://img.shields.io/badge/Foundry-black?style=for-the-badge&logo=forge&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
 
 ---
 
