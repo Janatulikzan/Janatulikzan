@@ -11,7 +11,7 @@ Aspiring <strong>Smart Contract Developer</strong> with a passion for Web3, Soli
 - 🚀 I’m a Web3 enthusiast currently focused on **blockchain development**, **smart contracts**, and **decentralized applications**.
 - 🧠 Continuously learning about Solidity, EVM-compatible networks, and on-chain development best practices.
 - 🛠️ I've worked on several personal and collaborative projects involving Ethereum-based smart contracts, tokenization, and crowdfunding.
-- 🤝 I'm actively looking for **internship opportunities** to contribute, grow, and learn from experienced Web3 engineers.
+- 🤝 I'm actively looking for **opportunities** to contribute, grow, and learn from experienced Web3 engineers.
 - 🌍 Remote & async-friendly. I’m ready to collaborate with teams across the globe.
 
 ---
@@ -19,6 +19,8 @@ Aspiring <strong>Smart Contract Developer</strong> with a passion for Web3, Soli
 ## 🌐 Connect With Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jatul_is)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janatulikzan@gmail.com)
+ 
 Let’s connect and collaborate on exciting Web3 ideas!
 
 ---
