@@ -44,14 +44,12 @@ Here are some of the smart contract projects I've been working on:
 ---
 
 <p align="center">
-## 💻 Tech Stack
+<strong> 💻 Tech Stack </strong>
+ <br>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,typescript,js,react,vercel,nodejs,ipfs,git,github,vscode,vite,wagmi,viem" />
+    <img src="https://skillicons.dev/icons?i=solidity,typescript,js,react,vercel,nodejs,ipfs,git,github,vscode,vite" />
   </a>
 </p>
-
-
-[![My Skills](https://skillicons.dev/icons?i=solidity,typescript,js,react,vercel,nodejs,ipfs,git,github,vscode,vite&perline=6)](https://skillicons.dev)
 
 ![Hardhat](https://img.shields.io/badge/Hardhat-323232?style=for-the-badge&logo=ethereum&logoColor=yellow)
 ![Foundry](https://img.shields.io/badge/Foundry-black?style=for-the-badge&logo=forge&logoColor=white)
