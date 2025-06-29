@@ -20,9 +20,6 @@ Aspiring <strong>Smart Contract Developer</strong> with a passion for Web3, Soli
 
 [![My Skills](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/jatul_is)
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:janatulikzan@gmail.com)
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jatul_is)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janatulikzan@gmail.com)
  
 Let’s connect and collaborate on exciting Web3 ideas!
 
@@ -47,7 +44,10 @@ Here are some of the smart contract projects I've been working on:
 ---
 
 <p align="center">
-<strong> 💻 Tech Stack </strong>
+ 
+ <h3>
+ <strong>💻 Tech Stack </strong>
+ </h3>
  
  <br/>
  
