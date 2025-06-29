@@ -1,18 +1,52 @@
-## 
+<h1 align="center">Hey, I'm Janatul Ikzan 👋</h1>
 
-I'm **Janatul Ikzan**, I like exploring new technologies and building projects that make a difference. Let's connect and collaborate!
+<p align="center">
+Aspiring <strong>Smart Contract Developer</strong> with a passion for Web3, Solidity, and building meaningful decentralized applications. Let's build the future of the internet together!
+</p>
 
-# 💫About Me :
-I am a Web3 Builders with a focus on blockchain, smart contract and web3 technologies. While I don't have a specific location mentioned, I am eager to connect with like-minded individuals. I have a growing portfolio of projects that reflect my interests and skills.
+---
 
-## 🌐Socials
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jatul_is) 
+## 💡 About Me
 
-# 💻Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) 
-[![My Skills](https://skillicons.dev/icons?i=git,github,ipfs,npm,vscode,vite&perline=8)](https://skillicons.dev)
+- 🚀 I’m a Web3 enthusiast currently focused on **blockchain development**, **smart contracts**, and **decentralized applications**.
+- 🧠 Continuously learning about Solidity, EVM-compatible networks, and on-chain development best practices.
+- 🛠️ I've worked on several personal and collaborative projects involving Ethereum-based smart contracts, tokenization, and crowdfunding.
+- 🤝 I'm actively looking for **internship opportunities** to contribute, grow, and learn from experienced Web3 engineers.
+- 🌍 Remote & async-friendly. I’m ready to collaborate with teams across the globe.
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Janatulikzan&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Janatulikzan&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Janatulikzan&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+---
+
+## 🌐 Connect With Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jatul_is)  
+Let's connect and collaborate on exciting Web3 ideas!
+
+---
+
+## 💻 Tech Stack
+
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB.svg?style=for-the-badge&logo=ipfs&logoColor=white)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+
+[![My Skills](https://skillicons.dev/icons?i=solidity,typescript,js,react,nodejs,git,github,vscode,vite&perline=8)](https://skillicons.dev)
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Janatulikzan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Janatulikzan&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Janatulikzan&theme=radical&hide_border=false&layout=compact)
+
+---
+
+🚀 *Let’s build smart contracts that matter.*  
+📩 *Open to internship opportunities in Web3 and blockchain development.*
+
