@@ -43,20 +43,11 @@ Here are some of the smart contract projects I've been working on:
 
 ## 💻 Tech Stack
 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB.svg?style=for-the-badge&logo=ipfs&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![Hardhat](https://img.shields.io/badge/Hardhat-323232?style=for-the-badge&logo=ethereum&logoColor=yellow)
 ![Foundry](https://img.shields.io/badge/Foundry-black?style=for-the-badge&logo=forge&logoColor=white)
-
-
-[![My Skills](https://skillicons.dev/icons?i=solidity,hardhat,foundry,typescript,js,react,vercel,nodejs,ipfs,html5,css3,git,github,vscode,vite&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=solidity,typescript,js,react,vercel,nodejs,ipfs,git,github,vscode,vite&perline=8)](https://skillicons.dev)
 
 ---
 
