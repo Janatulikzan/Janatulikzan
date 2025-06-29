@@ -19,7 +19,25 @@ Aspiring <strong>Smart Contract Developer</strong> with a passion for Web3, Soli
 ## 🌐 Connect With Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jatul_is)  
-Let's connect and collaborate on exciting Web3 ideas!
+Let’s connect and collaborate on exciting Web3 ideas!
+
+---
+
+## 📂 Featured Projects
+
+Here are some of the smart contract projects I've been working on:
+
+- 🔹 [**ERC-20 Token Implementation**](https://github.com/Janatulikzan/ERC-20)  
+  A minimal and functional ERC-20 contract with essential features like minting and burning.
+
+- 🔹 [**FundLsk**](https://github.com/Janatulikzan/fundLsk)  
+  A crowdfunding DApp built during a hackathon, designed for the Lisk ecosystem using smart contracts.
+
+- 🔹 [**TugWar Smart Contract**](https://github.com/Janatulikzan/TugWar-SmartContract)  
+  A fun on-chain two-player game where users can interact with smart contracts for outcomes.
+
+- 🔹 [**Smart Contract Auction**](https://github.com/Janatulikzan/SmartContract-Auction)  
+  A decentralized auction system where bidders compete and only the winner’s bid gets transferred while others are refunded.
 
 ---
 
@@ -48,5 +66,4 @@ Let's connect and collaborate on exciting Web3 ideas!
 ---
 
 🚀 *Let’s build smart contracts that matter.*  
-📩 *Open to internship opportunities in Web3 and blockchain development.*
-
+📩 *Open to job opportunities in Web3 and blockchain development.*
