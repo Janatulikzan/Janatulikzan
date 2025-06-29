@@ -47,6 +47,7 @@ Here are some of the smart contract projects I've been working on:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![Hardhat](https://img.shields.io/badge/Hardhat-323232?style=for-the-badge&logo=ethereum&logoColor=yellow)
 ![Foundry](https://img.shields.io/badge/Foundry-black?style=for-the-badge&logo=forge&logoColor=white)
+
 [![My Skills](https://skillicons.dev/icons?i=solidity,typescript,js,react,vercel,nodejs,ipfs,git,github,vscode,vite&perline=8)](https://skillicons.dev)
 
 ---
